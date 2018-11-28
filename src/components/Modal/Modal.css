@@ -24,7 +24,7 @@
   /*display: none;*/
   /*opacity: 0;
   transform: translateY(-100%);*/
-  animation: closedModal 0.5s ease-out forwards;
+  animation: closedModal 1s ease-out forwards;
 }
 
 @keyframes openModal {
